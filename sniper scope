@@ -1,4 +1,4 @@
 {
-  "pattern": "",
-  "replace": ""
+  "pattern": "00",
+  "replace": "00"
 }
